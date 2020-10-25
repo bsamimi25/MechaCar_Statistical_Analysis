@@ -20,6 +20,12 @@ No, our model does not have a slope of zero since the relationship between our Y
 5. AWD
   - P-value of .1852 shows that it is not statistically significant at any alpha level. 
   
+**SUMMARY STATISTICS**
+
+
+<img width="621" alt="Screen Shot 2020-10-24 at 4 48 43 PM" src="https://user-images.githubusercontent.com/67808057/97096144-c54d3980-161c-11eb-9e8b-055c204e669e.png">
+
+  
   
 
 
