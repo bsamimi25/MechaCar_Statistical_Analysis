@@ -56,6 +56,8 @@ From this test and with a p-value of .637, this is not statitically signifcant s
 
 ## Study Design: MechaCar vs Competition
 
+I would perform a ANOVA test since I want to use the means of a continuous numerical variable across a number of groups.
+I would test between the different categorical cars(SUV, sports car, Pickups) and use a single dependent varibale of (MPG) across these groups and compare it against the competition to try and convince a consumer that there is a statistical difference between MechaCar and Non-MechaCars products. I would just need the data on all the SUVs, sports car and pickups models mpg for my picked competition and MechaCars. We want to reject our null hypothesis that there is not a difference between the two groups (MechaCars and Competition) and accept our alternative that there is a difference between the two groups. With ANOVA the tests are done individually so some car types my or may not be statistically significant. 
 
 
 
