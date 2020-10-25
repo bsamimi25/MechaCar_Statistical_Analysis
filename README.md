@@ -26,6 +26,47 @@ No, our model does not have a slope of zero since the relationship between our Y
 <img width="621" alt="Screen Shot 2020-10-24 at 4 48 43 PM" src="https://user-images.githubusercontent.com/67808057/97096144-c54d3980-161c-11eb-9e8b-055c204e669e.png">
 
   
+## T-Tests on Suspension Coils
+
+In this section, I tested a general population mean of 1500 against the different Manufacturing Lots in the data set. Now, population means can never be known but just for this case there is one in place to gather some insight on pounds per square inch per Lot. Let see if the lot are statistically significant/ different from the predetermined population mean of 1500. 
+
+**Lot1 vs PopMean**
+
+
+<img width="454" alt="Screen Shot 2020-10-24 at 6 22 10 PM" src="https://user-images.githubusercontent.com/67808057/97096876-59240300-1627-11eb-8f8b-6445a083d9bc.png">
+
+
+From this test and with a p-value of .9048, this is not statitically signifcant since we do not have enough evidence to reject the null hypothesis, thus these two numbers are statistically similar. 
+
+
+**Lot2 vs PopMean**
+
+<img width="533" alt="Screen Shot 2020-10-24 at 6 33 42 PM" src="https://user-images.githubusercontent.com/67808057/97096893-9a1c1780-1627-11eb-874d-3453595a24b0.png">
+
+
+From this test and with a p-value of .3451, this is not statitically signifcant since we do not have enough evidence to reject the null hypothesis, thus these two numbers are statistically similar. 
+
+
+**Lot3 vs PopMean**
+
+<img width="452" alt="Screen Shot 2020-10-24 at 6 35 26 PM" src="https://user-images.githubusercontent.com/67808057/97096898-c041b780-1627-11eb-8a26-581acb4b255f.png">
+
+
+From this test and with a p-value of .637, this is not statitically signifcant since we do not have enough evidence to reject the null hypothesis, thus these two numbers are statistically similar. 
+
+## Study Design: MechaCar vs Competition
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
